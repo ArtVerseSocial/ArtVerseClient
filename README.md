@@ -17,7 +17,7 @@ Clone ``git clone https://github.com/SportInsightHub/SportInsight.git``
 
 Go to the project directory : ``$ cd SportInsight``
 
-Install Virtualenv : `` $ pip install virtualenv``
+Install Virtualenv : ``$ pip install virtualenv``
 
 Create a virtual environment : ``$ virtualenv -p python3.11 .venv ``
 
