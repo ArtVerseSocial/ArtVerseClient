@@ -21,7 +21,7 @@ Install Virtualenv : ``$ pip install virtualenv``
 
 Create a virtual environment : ``$ virtualenv -p python3.11 .venv ``
 
-Activate the virtual environment (on windows): ``$ .venv/bin/activate``
+Activate the virtual environment (on windows): ``$ .\.venv\Scripts\activate``
 Activate the virtual environment (on linux or macOS): ``$ source .venv/bin/activate``
 
 Install Dependencies : ``$ (.venv) > pip install -r requirements.txt``
